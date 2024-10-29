@@ -1,6 +1,4 @@
-<a href="https://www.readersdigest.ca/travel/canada/avro-arrow/">
-    <img src="https://www.readersdigest.ca/wp-content/uploads/2021/07/avro-arrow.jpg" alt="The Canadian Arrow - Canadian Ingenuity" width="500">
-</a>
+[![The Canadian Arrow - Canadian Ingenuity](assets/Arrow.jpg)](https://www.readersdigest.ca/travel/canada/avro-arrow/)
 
 ## Jamie Irwin
 
