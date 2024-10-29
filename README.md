@@ -19,6 +19,6 @@
 - Volunteering Time with Big Brothers
 
 ## Find Me Online
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/jamie-i-92b59a42/) | [Portfolio](https://your-portfolio.com)
 
 
