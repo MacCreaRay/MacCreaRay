@@ -1,4 +1,4 @@
-![Jets are cool!](/assets/Jet.png) 'Jet over the mountains!'
+![The Canadian Arrow!](https://www.readersdigest.ca/wp-content/uploads/2021/10/avro-arrow-reynolds-alberta-museum.jpg?fit=700,700)(Click for more about the Arrow)
 ## Jamie Irwin
 
 ### About Me
