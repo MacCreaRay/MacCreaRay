@@ -1,4 +1,4 @@
-![Jets are cool!](/Users/skynet/Downloads/Jet.png"Jet over the mountains!")
+![Jets are cool!](/assets/Jet.png)" Jet over the mountains!"
 ## Jamie Irwin
 
 ### About Me
