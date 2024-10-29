@@ -1,4 +1,4 @@
-![Jets are cool!](DALL·E 2024-10-29 13.27.30 - A sleek jet flying through snow-capped mountains, with the jet in motion leaving a faint contrail. The scene is set in clear blue skies with a few sca)
+![Jets are cool!]('/Users/skynet/Downloads/DALL·E 2024-10-29 13.27.30 - A sleek jet flying through snow-capped mountains, with the jet in motion leaving a faint contrail. The scene is set in clear blue skies with a few sca.webp')
 ## Jamie Irwin
 
 ### About Me
