@@ -1,4 +1,4 @@
-![The Canadian Arrow! "Canadian Ingenuity"](https://www.readersdigest.ca/wp-content/uploads/2021/10/avro-arrow-reynolds-alberta-museum.jpg?fit=700,700)
+![The Canadian Arrow! ()"Canadian Ingenuity"](https://www.readersdigest.ca/travel/canada/avro-arrow/)
 ## Jamie Irwin
 
 ### About Me
