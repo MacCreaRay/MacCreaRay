@@ -1,4 +1,4 @@
-![The Canadian Arrow! ()"Canadian Ingenuity"](https://www.readersdigest.ca/travel/canada/avro-arrow/)
+![The Canadian Arrow! (/assets/Arrow.jpg)"Canadian Ingenuity"](https://www.readersdigest.ca/travel/canada/avro-arrow/)
 ## Jamie Irwin
 
 ### About Me
