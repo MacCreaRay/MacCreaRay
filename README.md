@@ -1,4 +1,7 @@
-[![The Canadian Arrow - Canadian Ingenuity](assets/Arrow.jpg)](https://www.readersdigest.ca/travel/canada/avro-arrow/)
+
+[![The Canadian Arrow - Canadian Ingenuity]([ps://wwwhttps://github.com/username/repo/raw/main/path/to/image.jpg](https://private-user-images.githubusercontent.com/185218135/381352966-2b7e9222-2e6f-4ddb-8c4d-8458fd05a0ca.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAyNTE0OTAsIm5iZiI6MTczMDI1MTE5MCwicGF0aCI6Ii8xODUyMTgxMzUvMzgxMzUyOTY2LTJiN2U5MjIyLTJlNmYtNGRkYi04YzRkLTg0NThmZDA1YTBjYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAzMFQwMTE5NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjJhNzEzMGNhNmY5ZDhhYjRmNDgzNTUyNzc3NTZhNTRiNDhiZWU3M2NmODljNjZjNjA2ZDI2NjJhMGZmNDdlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cyHUCWH1yAbNZYAYvOvMRNCqg5K0FkNV7iQWghzoEOQ))](htt.readersdigest.ca/travel/canada/avro-arrow/)
+
+
 
 ## Jamie Irwin
 
