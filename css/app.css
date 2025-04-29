@@ -1,0 +1,87 @@
+/* Base Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+header {
+  background: #444;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header img {
+  max-width: 100%;
+  height: auto;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin: 10px 0 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+section {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.project-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+
+footer {
+  background: #222;
+  color: #aaa;
+  text-align: center;
+  padding: 15px;
+  font-size: 0.9em;
+  margin-top: 40px;
+}
+
+/* Responsive Adjustments */
+@media screen and (max-width: 640px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  section {
+    padding: 15px;
+  }
+
+  .project-card {
+    padding: 10px;
+  }
+
+  body {
+    font-size: 16px;
+  }
+}
