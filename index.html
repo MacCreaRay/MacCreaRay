@@ -6,63 +6,119 @@
   <title>Jamie Irwin - Portfolio</title>
   <link rel="stylesheet" href="css/app.css" />
   <script src="scripts/app.js" defer></script>
-  <img src="assets/images/myimage.jpg" alt="Jamie Irwin">
 </head>
 <body>
   <header>
-    <img src="assets/header.jpg" alt="Banner image" id="headerImage" />
     <nav id="mainNav">
-      <ul>
+      <div class="nav-left">
+        <img src="assets/images/myimage.jpg" alt="Jamie Irwin" id="navPortrait">
+        <span class="nav-name">Jamie Irwin</span>
+      </div>
+      <ul class="nav-center">
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#resume">Resume</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#accomplishments">Accomplishments</a></li>
+        <li><a href="assets/Jamie Irwin.Resume.pdf" download>Resume</a></li>
       </ul>
-    </nav>
-  </header>
-
-  <main>
-    <section id="about">
-      <h2>About Me</h2>
-      <p>I’m Jamie Irwin, currently completing a Web Development diploma at triOS College. My background includes IT analysis, project management, and hands-on tech support. I love blending logic, problem-solving, and creativity to build intuitive, functional web experiences.</p>
-    </section>
-
-    <section id="skills">
-      <h2>Skills</h2>
-      <ul class="skills-list">
-        <li>HTML5 / CSS3 / JavaScript</li>
-        <li>Networking & Cybersecurity</li>
-        <li>GitHub & Version Control</li>
-        <li>Linux / Windows Server / MacOS</li>
-      </ul>
-    </section>
-
-    <section id="projects">
-      <h2>Projects</h2>
-      <div class="project-card">
-        <h3>JavaScript Skill Cards</h3>
-        <p>Custom skill card generator with user-added content and styling, driven by DOM manipulation.</p>
-        <a href="Jamie_JS_5/index.html" target="_blank">View Project</a>
+      <div class="nav-right">
+        <a href="mailto:jamie.irwin@triosstudent.com" class="social-icon" title="Email">
+          <img src="assets/images/email-white.svg" alt="Email" />
+        </a>
+        <a href="https://github.com/MacCreaRay" target="_blank" class="social-icon" title="GitHub">
+          <img src="assets/images/github-white.svg" alt="GitHub" />
+        </a>
+        <a href="https://linkedin.com/in/jamie-i-92b59a42/" target="_blank" class="social-icon" title="LinkedIn">
+          <img src="assets/images/linkedin-white.svg" alt="LinkedIn" />
+        </a>
       </div>
-      <!-- Add more projects here -->
-    </section>
-
-    <section id="resume">
-      <h2>Resume</h2>
-      <a href="assets/Jamie_Irwin_Resume.pdf" download>📄 Download My Resume</a>
-    </section>
-
-    <section id="contact">
-      <h2>Contact</h2>
-      <p>Email: <a href="mailto:jamiejirwin@icloud.com">jamiejirwin@icloud.com</a></p>
-      <p>LinkedIn: <a href="https://linkedin.com/in/YOUR-LINK">linkedin.com/in/YOUR-LINK</a></p>
-      <p>GitHub: <a href="https://github.com/MacCreaRay">github.com/MacCreaRay</a></p>
+    </nav>
+    <div id="tileHeader">
+      <div class="tile">Networking</div>
+      <div class="tile">Cybersecurity</div>
+      <div class="tile">JavaScript</div>
+      <div class="tile">Linux</div>
+      <div class="tile">Windows Server</div>
+      <div class="tile">PC Build / Repair</div>
+      <div class="tile">Photoshop</div>
+      <div class="tile">Illustrator</div>
+    </div>
+  </header>
+  <main>
+    <div class="about-skills-container">
+      <!-- Left: About Section -->
+      <section id="about" class="bio-feature">
+        <div class="about-inner-box">
+          <h2>👋 I’m Jamie Irwin</h2>
+          <img src="assets/images/myphoto.jpg" alt="Jamie Irwin" class="about-photo" />
+          <p>
+            I'm an IT professional turned web developer, combining a solid background in networking and electronics with a passion for creating intuitive web experiences. I’m a graduate of triOS College’s Web Dev program, certified in cybersecurity, and a licensed private pilot (yes, really).
+          </p>
+          <p>
+            Whether I’m wiring a network rack or designing a slick UI, I bring precision and curiosity to every challenge. Always learning. Always building.
+          </p>
+          <div class="quick-stats">
+            <div>💻 10+ Years in IT</div>
+            <div>🎓 Diploma in Web Dev</div>
+            <div>🎓 Diploma in Computer Networking</div>
+            <div>🎓 Diploma in Electronics Technician</div>
+            <div>🛡️ Certificate in Cybersecurity</div>
+          </div>
+        </div>
+      </section>
+      <section id="skills" class="card-skills">
+        <h2>🛠️ My Toolbelt</h2>
+        <div class="skills-list"></div>
+      </section>
+    </div>
+    <section id="accomplishments" class="accomplishments">
+      <div class="accomplishments-grid">
+        <div class="accomplishment-block fade-in"
+             data-title="📁 Professional Projects"
+             data-description="These projects reflect client-focused work, including live deployments and tailored business solutions.">
+          <h2>📁 Professional Projects</h2>
+          <ul>
+            <li>Internship – Smashing Pixels (Soon)</li>
+            <li>Project Manager – Cisco AV / IMAX</li>
+            <li>Started own IT business</li>
+            <li>Client Network Setup & Server Rack Install</li>
+          </ul>
+        </div>
+        <div class="accomplishment-block fade-in"
+             data-title="🧰 Personal Accomplishments"
+             data-description="Projects I built independently—often just for fun or as personal challenges to learn new tech.">
+          <h2>🧰 Personal Accomplishments</h2>
+          <ul>
+            <li>Home Media Server (Ubuntu + Plex)</li>
+            <li>PC Builds – Friends & Family</li>
+            <li>Secure Network Architecture</li>
+            <li>Aviation Personal Pilot License</li>
+          </ul>
+        </div>
+        <div class="accomplishment-block fade-in"
+             data-title="🏅 Certifications & Highlights"
+             data-description="A collection of my credentials, including diplomas and certifications.">
+          <h2>🏅 Certifications & Highlights</h2>
+          <ul>
+            <li>Diploma – Web Development (triOS)</li>
+            <li>Diploma – Computer Networking (Mohawk)</li>
+            <li>Certificate – Electronics Technician</li>
+            <li>Certificate – Cybersecurity</li>
+          </ul>
+        </div>
+      </div>
     </section>
   </main>
-
   <footer>
     <p>© 2025 Jamie Irwin | Web Developer Portfolio</p>
   </footer>
+  <div class="modal" id="accomplishmentModal">
+    <div class="modal-content">
+      <span class="close-button">&times;</span>
+      <h2 id="modalTitle"></h2>
+      <div id="modalDescription"></div>
+    </div>
+    <p class="modal-hint">Click anywhere to close</p>
+    </div>
+  </div>
 </body>
 </html>
